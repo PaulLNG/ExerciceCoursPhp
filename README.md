@@ -12,4 +12,4 @@ Fonctionnalité du projet :
 - Déconnexion 
 - Listing dans un tableau des utilisateurs
 
-La modification et la suppression d'utilisateur n'est pas terminé.
+La modification et la suppression d'utilisateur n'est pas complétement terminé.
